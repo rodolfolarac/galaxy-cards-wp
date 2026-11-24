@@ -1,0 +1,9 @@
+# Exportação do banco: contém a chave do Google TTS, o hash da senha e os cards
+galaxy-cards/data/dados-iniciais.php
+
+# Saídas geradas pelo empacotar.sh
+dist/
+build-front/
+
+node_modules/
+*:Zone.Identifier
